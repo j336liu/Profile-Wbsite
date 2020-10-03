@@ -1,0 +1,9 @@
+p {
+  color: red;
+}
+
+li {
+  text-transform: uppercase;
+  color: aliceblue;
+  background-color: red;
+}
